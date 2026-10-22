@@ -1,0 +1,11 @@
+﻿seed,components_file,final_cost,first_zero_stage,elapsed_seconds,temperature_stages,candidate_attempts,cost_check_passed,out_of_board_count,overlap_count
+10,components_dense.txt,100,未找到,0.9929,90,9000,True,0,1
+20,components_dense.txt,0,20,0.9778,90,9000,True,0,0
+30,components_dense.txt,100,未找到,0.9932,90,9000,True,0,1
+40,components_dense.txt,0,59,0.9773,90,9000,True,0,0
+50,components_dense.txt,100,未找到,0.9973,90,9000,True,0,1
+60,components_dense.txt,100,未找到,0.9803,90,9000,True,0,1
+70,components_dense.txt,0,67,0.9889,90,9000,True,0,0
+80,components_dense.txt,0,14,0.9862,90,9000,True,0,0
+90,components_dense.txt,100,未找到,0.9928,90,9000,True,0,1
+100,components_dense.txt,100,未找到,0.9944,90,9000,True,0,1

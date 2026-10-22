@@ -1,0 +1,39 @@
+# ---- Python ----
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# ---- 虚拟环境 ----
+venv/
+.venv/
+env/
+ENV/
+
+# ---- 本项目运行产物 ----
+# 每次运行都会重新生成，不纳入版本管理；目录本身用 .gitkeep 保留
+output/*
+!output/.gitkeep
+
+# ---- 密钥与本地配置 ----
+.env
+.env.*
+!.env.example
+
+# ---- 编辑器 / 操作系统 ----
+.idea/
+.vscode/
+*.swp
+.DS_Store
+Thumbs.db
+
+# ---- 测试与工具缓存 ----
+.pytest_cache/
+.coverage
+htmlcov/
+.mypy_cache/
