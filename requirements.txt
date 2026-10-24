@@ -1,8 +1,8 @@
 # 运行时依赖（Python >= 3.8）
 # 安装：python -m pip install -r requirements.txt
 
-# OpenAI 兼容 SDK：DeepSeek 云端接口和本地 Ollama 都用它
-openai>=1.59,<2
+# OpenAI 兼容 SDK
+openai>=1.59.7
 
 # 模拟退火的随机数与边界处理
 numpy>=1.24
